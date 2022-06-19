@@ -1,21 +1,21 @@
 {
     "bot": {
-        "token": "BOT TOKEN",
-        "owner": "796263552771817472",
-        "prefix": ".",
-        "BotStatus": "YOUTUBE BORANGKDN",
-        "BotFooter": "YOUTUBE BORANGKDN",
+        "token": "OTg3OTkzNDQzNzg5ODUyNzMy.G68tu2.d-K7KBvYhBAT6_sojVHepdnYKH4svH4ot5drB4",
+        "owner": "919958679460143124",
+        "prefix": "-",
+        "BotStatus": "OKANIST WAS HERE",
+        "BotFooter": "OKANIST WAS HERE",
         "cooldown": 8,
         "iltifatsize": 100
     },
     "penals": {
         "ban": {
-            "staff": "BAN YETKİLİSİ ID",
-            "log": "BAN LOG ID",
+            "staff": "982572297498001428",
+            "log": "919958679460143124",
             "limit": 3
         },
         "jail": {
-            "staff": "JAİL YETKİLİSİ ID",
+            "staff": "567036427255152658",
             "roles": "CEZALI ROLÜ ID",
             "log": "JAİL LOG ID",
             "limit": 5
@@ -43,30 +43,30 @@
         "taglog": "TAG LOG KANALI ID"
     },
     "roles": {
-        "boosterrole": "BOOSTER ROLÜ ID",
-        "viprole": "VIP ROLÜ ID",
+        "boosterrole": "982571146744561716",
+        "viprole": "982933267005194280",
         "designerrole": "TASARIMCI ROLÜ ID",
         "musiciansrole": "MÜZİSYEN ROLÜ ID",
         "team": "TAGLI ROLÜ ID",
         "sponsored": "SPONSOR ROLÜ ID"
     },
     "channels": {
-        "chat": "CHAT KANALI ID",
+        "chat": "979073347562373140",
         "voicechannel": "SES KANALI ID",
-        "welcomechannel": "HOŞ GELDİN KANALI ID",
-        "rules": "KURALLAR KANALI ID"
+        "welcomechannel": "928574853672484874",
+        "rules": "928571608807911424"
     },
     "parents": {
         "publicparents": "PUBLİC KATEGORİSİ ID"
     },
     "registration": {
-        "unregistered": "KAYITSIZ ROLÜ ID",
-        "man": ["ERKEK ROLÜ ID", "2. ERKEK ROLÜ ID YOKSA SİL"],
-        "woman": ["KADIN ROLÜ ID", "2. KADIN ROLÜ ID YOKSA SİL"],
-        "staff": "REGİSTER ROLÜ ID",
-        "GuilDTag": "TAGINIZ",
-        "TagSymbol": "Kayıt Olunca İsim Yaşın Önüne Koyacağı Sembol",
-        "autonickname": "İsim | Yaş",
+        "unregistered": "928578604873437224",
+        "man": ["928565380157435914"],
+        "woman": ["928565379410853968"],
+        "staff": "988000407785701446",
+        "GuilDTag": "IST",
+        "TagSymbol": "✞ ",
+        "autonickname": "✞ Isım | Yaş",
         "symbol": "|",
         "suspecios": "ŞÜPHELİ HESAP ROLÜ ID",
         "susoeciosnickname": "$ Şüpheli Hesap",
@@ -76,14 +76,14 @@
         "purchase": false
     },
     "Guild": {
-        "GuildID": "SUNUCU ID",
-        "GuilDName": "SUNUCU İSMİ",
-        "GuildOwnerRole": ["OWNER ROLÜ ID"]
+        "GuildID": "928563934078857246",
+        "GuilDName": "✞ SATAN-IST KINGDOM",
+        "GuildOwnerRole": ["919958679460143124"]
     },
     "emojis": {
         "tada": "TADA EMOJİSİ ID",
-        "yes": "ONAY EMOJİSİ ID",
-        "no": "RED EMOJİSİ ID"
+        "yes": "988008260516851772",
+        "no": "988008274311925760"
     },
     "buttons": {
         "giveaway": "ÇEKİLİŞ KATILIMCISI ROLÜ ID",
